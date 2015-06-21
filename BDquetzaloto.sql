@@ -9,6 +9,7 @@ Apellido_Cliente varchar (50)not null,
 Nit_Cliente int not null,
 Telefono_Cliente int not null,
 Direccion_Cliente varchar (50)not null,
+Tarjeta_Cliente int not null,
 Username_Cliente varchar(50) not null,
 Password_Cliente varchar(25) not null,
 )
