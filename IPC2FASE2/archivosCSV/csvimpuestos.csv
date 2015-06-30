@@ -1,0 +1,13 @@
+use PaquetesQuetzal17
+go
+select * from Empleado
+--insert into Cliente values('Jenny','montenegro',8464,3543,'zona8','Guatemala',155252,'jenny','123')
+--insert into Departamento values(1,'amati')
+--insert into Departamento values(2,'amati')
+--insert into Empleado values(1,'Cristina','Santiago',15151,'17 zona',12,'Empleado','cristi','123',1)
+
+--insert into Empleado values(10,'Cristi','Santiago',15151,'17 zona',12,'Administrador','jesha','123',2)
+--insert into Empleado values(11,'Cristina','Santiago',15151,'17 zona',12,'director','majo','123',15)
+--insert into Empleado values(10,'Cristina','Santiago',15151,'17 zona',12,'director','cristina',123,5)
+--select * from Empleado
+--select * from Departamento

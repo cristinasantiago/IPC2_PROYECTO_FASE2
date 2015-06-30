@@ -1,0 +1,6 @@
+C:\Users\titi\Documents\GitHub\IPC2_PROYECTO_FASE2\WebSite4\WebService1\bin\WebService1.dll.config
+C:\Users\titi\Documents\GitHub\IPC2_PROYECTO_FASE2\WebSite4\WebService1\bin\WebService1.dll
+C:\Users\titi\Documents\GitHub\IPC2_PROYECTO_FASE2\WebSite4\WebService1\bin\WebService1.pdb
+C:\Users\titi\Documents\GitHub\IPC2_PROYECTO_FASE2\WebSite4\WebService1\obj\Debug\WebService1.csprojResolveAssemblyReference.cache
+C:\Users\titi\Documents\GitHub\IPC2_PROYECTO_FASE2\WebSite4\WebService1\obj\Debug\WebService1.dll
+C:\Users\titi\Documents\GitHub\IPC2_PROYECTO_FASE2\WebSite4\WebService1\obj\Debug\WebService1.pdb
