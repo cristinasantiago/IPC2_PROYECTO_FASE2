@@ -1,3 +1,32 @@
-CATEGORIA,      CASILLA,    PESO,    PRECIO 
-Videojuegos,    1616,        2,       500 
-Accesorio de Telefonia,1001, 1,       1000
+Accesorio de Musica,1,5,2130
+Accesorio de Oficina,2,10,12222
+Accesorio de Telefonia,1,1,1000
+Accesorio de Telefonia,2,10,23444
+Accesorio Deportivo,2,12,1232
+Accesorio Electrico,1,6,3452
+CD's,,1,122
+CD's,,4,1333
+Celulares,,1,6232
+Celulares,,3,4222
+Cinta de Impresora,,1,3432
+Cinta de Impresora,,2,1211
+Computadoras,,4,4573
+Computadoras,,5,7532
+Consola de Videojuegos,,3,4531
+Consola de Videojuegos,,6,2352
+Cosmeticos,,2,123
+Cosmeticos,,2,235
+Cuadernos,,3,235
+Discos Duros Vacios,,2,2341
+DVD Player,,5,2131
+Edredon,,5,234
+Electrodomesticos,,10,23422
+Equipo Medico,,10,234211
+Estuche de Cuero,,3,233
+Estuche Partes Plasticas,,3,2342
+Etiquetas de Papel o Carton,,3,223
+Etiquetas de Tela,,5,234
+Grabadoras,,6,1331
+Herramientas de Mano,,6,1233
+Impresoras,,3,1233
+Videojuegos,1616,2,500

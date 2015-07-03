@@ -1,0 +1,3 @@
+Ropa,26
+Accesorios,48
+Videojuegos,15

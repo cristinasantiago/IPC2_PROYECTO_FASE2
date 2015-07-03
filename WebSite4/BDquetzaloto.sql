@@ -1,6 +1,6 @@
-CREATE DATABASE [PaquetesQuetzal2]
+CREATE DATABASE [PaquetesQuetzal17]
 go
-use PaquetesQuetzal2
+use PaquetesQuetzal17
 
 CREATE TABLE Cliente(
 Cod_Cliente int identity not null Primary key,
@@ -17,7 +17,7 @@ go
 
 Create table estado(
 Cod_Estado int not null,
-Descripcion_Estado varchar not null,
+Descripcion_Estado varchar(50)not null,
 primary key(Cod_Estado),
 )
 
@@ -121,6 +121,8 @@ Telefono_Empleado int null,
 Direccion_Empleado varchar(50)not null,
 Salario_Empleado int null,
 rol_Empleado varchar(25) not null,
+username_Empleado varchar (25) not null,
+Password_Empleado varchar (25) not null,
 Cod_Depto int  not null,
 )
 alter table Empleado add CONSTRAINT fk_Empleado_Cod_Depto FOREIGN KEY (cod_Depto) REFERENCES Departamento(Cod_Departamento)
